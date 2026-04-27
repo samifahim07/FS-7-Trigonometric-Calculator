@@ -18,7 +18,7 @@ A while loop keeps the program running until the user chooses to exit, and if-el
 
 5.Beginner-friendly Python project
 
-**🛠️ Technologies Used **
+🛠️ Technologies Used
 1.Python 
 2.Math Library
 
