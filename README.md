@@ -6,7 +6,7 @@ The program uses Python’s built-in math library to perform accurate calculatio
 
 A while loop keeps the program running until the user chooses to exit, and if-else conditions handle user input and invalid cases like division by zero.
 
-🚀 Features
+**🚀 Features**
 
 1.Calculate Sin, Cos, Tan, Cot, Sec, Cosec
 
@@ -18,7 +18,9 @@ A while loop keeps the program running until the user chooses to exit, and if-el
 
 5.Beginner-friendly Python project
 
-🛠️ Technologies Used 1.Python 2.Math Library
+**🛠️ Technologies Used **
+1.Python 
+2.Math Library
 
 🎯 Learning Outcome
 
